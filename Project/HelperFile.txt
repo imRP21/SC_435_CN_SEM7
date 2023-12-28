@@ -1,0 +1,5 @@
+GitHub repo used for reference: 
+https://github.com/dimgold/pycon_social_networkx/blob/master/info_spread_got.ipynb
+
+Various datasets available at:
+https://websites.umich.edu/~mejn/netdata/
